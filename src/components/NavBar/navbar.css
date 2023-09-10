@@ -1,0 +1,26 @@
+.mini-logo{
+    width: 150px;
+position: absolute;
+left: 50%;
+margin-left: -75px;
+}
+
+nav {
+    background-color: #212529;
+    font-size: small;
+    font-weight: 300;
+    color: white;
+}
+
+.item-nav{
+    color: white;
+}
+
+.carrito {
+    color: yellow;
+}
+
+.fondo{
+    background-color: #100649;
+}
+   

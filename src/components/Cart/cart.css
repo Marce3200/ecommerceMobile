@@ -1,0 +1,27 @@
+.card-carrito{
+margin-top: 50px;
+color: white;
+    background-color: #212529;
+    border: 1px solid #75f200;
+}
+
+.foto-carrito{
+    width: 40%;
+}
+
+.texto-mini{
+    
+margin-bottom: 1px;
+    font-weight: 200;
+}
+.input-number{
+    background-color: #212529;
+    border: 1px solid #75f200;
+    color: white;
+}
+
+.boton-comprar{
+    background-color:#75f200;
+    border: 1px solid #75f200;
+    color: black;
+}

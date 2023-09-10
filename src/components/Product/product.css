@@ -1,0 +1,41 @@
+.imagen-principal{
+    max-width: 100%;
+    height: auto;
+}
+
+li-footer{
+    color: white;
+    font-size: medium;
+    font-weight: 200;
+}
+
+.text-infor-product{
+    font-size: large;
+    padding-top: 40px;
+    color: #00C036;
+}
+
+.precio{
+    padding-top: 30px;
+    color: white;
+}
+.boton-comprar{
+    
+margin-top: 30px;
+margin-bottom: 30px;
+background-color: #00C036;
+border: 1px solid #00C036;
+color: #212529;
+}
+
+
+.imagen-secundaria{
+    margin-top: 10px;
+    max-width: 100%;
+    height: auto;
+}
+.li-product{
+font-size: medium;
+font-weight: 300;
+color: white;
+}

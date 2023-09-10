@@ -1,0 +1,13 @@
+{
+    "appId": "io.ionic.ecommerce",
+    "appName": "ecommerce",
+    "bundledWebRuntime": false,
+    "npmClient": "npm",
+    "webDir": "build",
+    "cordova": {},
+    "server": {
+      "cleartext": true
+    }
+    
+  }
+  

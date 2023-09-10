@@ -1,0 +1,55 @@
+.titulo-seccion{
+    font-size: large;
+    padding-top: 40px;
+    color: white;
+}
+
+.bajada-titulo{
+    color: whitesmoke;
+    font-size: x-small;
+    font-weight: 200;
+    text-align: center;
+}
+.logo-login{
+    margin-top: 30px;
+    width: 20%;
+}
+
+
+
+.text-form{
+    margin-top: 20px;
+    color: #75f200;
+    font-size: small;
+    
+}
+.text-1{
+    padding-bottom: 0px;
+    margin-bottom: 0ch;
+    font-size: medium;
+}
+
+.link{
+    color: #75f200; 
+    font-size: medium;
+    font-weight: 200;
+    margin-bottom: 20px;
+}
+
+.boton-registro{
+    margin: 10px;
+    background-color:  #75f200;
+    border: 1px solid #75f200;
+    color: #212529;
+}
+
+.mensaje-error{
+    color: white;
+    font-weight: 200;
+    font-size: medium;
+}
+
+.text-incorrect{
+    color: white;
+    margin-top: 20px;
+}

@@ -1,0 +1,61 @@
+
+.banner{
+  max-height: 30% !important;
+}
+
+.text-banner{
+color: white;
+font-size: larger;
+}
+
+.row-catalogo{
+    width: 90%;
+    margin-bottom: 40px;
+}
+
+.card-catalogo{
+    height: 400px;
+    margin-bottom: 10px;
+}
+
+
+.foto-catalogo {
+    height: 300px;
+    border-radius: 0px;
+    object-fit: cover;
+    
+  }
+
+  .card-catalogo{
+    border: 1px solid #75f201;
+    border-radius: 0;
+    background-color: #212529;
+    color: white;
+    height: 500px;
+   
+  }
+
+  .card-text{
+    font-weight: 200;
+    font-size: x-small;
+    text-align: center;
+    
+  }
+  .card-tittle{
+    text-align: center;
+  }
+
+  .product-button{
+    margin: 10px;
+    background-color:  #75f200;
+    border: 1px solid #75f200;
+    color: #212529;
+  }
+
+  .catalogo-contenedor{
+    background-color: darkblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+  }
